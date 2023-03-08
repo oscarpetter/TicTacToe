@@ -3,7 +3,7 @@
 
 **Made by:**
 
-***Anton, Hampus, Luca, and Oscar***
+***Oscar, Anton and Luca***
 
 Usage
 -
